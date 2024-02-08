@@ -10,7 +10,7 @@
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <artifactId>junit-jdbc</artifactId>
       <version>3.6.1</version>
       <scope>test</scope>
     </dependency>
